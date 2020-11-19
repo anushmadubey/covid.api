@@ -1,0 +1,3 @@
+com/anushma/covid/api/common/model/CovidDetailResponse.class
+com/anushma/covid/api/common/model/CovidDetailRequest.class
+com/anushma/covid/api/common/interfaces/ICovidInformationManager.class
